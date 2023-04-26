@@ -1,0 +1,15 @@
+
+.PennController-Scale .option label {
+    margin: 0em 20pt; 
+    font-size: 14pt;
+    font-family: Helvetica;
+}
+
+.PennController-Scale .option input {
+    width: 1.6em; 
+    height: 1.6em;
+}
+
+.PennController-Item {
+    height: 2em;
+}

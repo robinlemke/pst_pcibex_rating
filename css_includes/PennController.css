@@ -1,0 +1,9 @@
+.PennController {
+    font-size: 13pt;
+    font-family: Helvetica;
+    line-height: 1.5em;
+    width: 50em !important; /* controls the witdth of the content area */
+    margin-left: calc(50vw - 25em); /* aligns the content area's left edge with the vertical center of the page */
+}
+
+
